@@ -1,0 +1,17 @@
+println ( 93 )
+a = 5
+b = 6
+a + b * 2
+(1+2)*3
+
+if (a > b){
+    println(5)
+}
+else {
+    println(6)
+}
+
+while(a == 5){
+    println(5)
+    a = 6
+}
